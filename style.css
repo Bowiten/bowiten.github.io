@@ -1,0 +1,19 @@
+* {
+    font-family: 'Source Code Pro', sans-serif;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    
+}
+
+.headline {
+    margin-top: -10px;
+    color: #a6a6a6;
+}
+
+.links {
+    display: inline;
+}
